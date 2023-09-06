@@ -3,7 +3,7 @@
 Aplicacion de prueba para aprender Next.js con react
 
 ## Índice
-
+- [Creacion de proyecto](#creacion-de-proyecto)
 - [Demo](#demo)
 - [Capturas de Pantalla](#capturas-de-pantalla)
 - [Descripción](#descripción)
@@ -14,6 +14,10 @@ Aplicacion de prueba para aprender Next.js con react
 - [Contribución](#contribución)
 - [Licencia](#licencia)
 
+## Creacion de proyecto
+```bash
+npx create-next-app mynextproject
+```
 ## Demo
 
 Proporciona un enlace a una demo en línea de tu aplicación si está disponible.
@@ -35,12 +39,12 @@ Enumera las principales características de tu aplicación.
 - Característica 3
 
 ## Requisitos Previos
+
 ### Node.js
 Instalar Node.js.
 ```bash
 sudo apt install nodejs
 ```
-
 ### npm
 Instalar npm.
 ```bash
@@ -51,4 +55,7 @@ Enumera cualquier requisito previo que los usuarios necesiten instalar o configu
 ## Instalación
 
 Proporciona instrucciones paso a paso sobre cómo instalar y configurar tu aplicación. Esto podría incluir comandos de terminal, instalación de paquetes, configuración de variables de entorno, etc.
+
+
+## Contribución
 
